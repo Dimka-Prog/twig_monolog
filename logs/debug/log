@@ -1,0 +1,3 @@
+
+[2022-05-11T09:54:15.729890+03:00] INFO LOGGER.INFO: Caught user:  {"user":"dima","message":"Проверка","time":"09:54:15"} []
+[2022-05-11T09:54:40.472115+03:00] INFO LOGGER.INFO: Caught user:  {"user":"gyg","message":"Hi","time":"09:54:40"} []
